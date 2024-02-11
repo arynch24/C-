@@ -11,5 +11,5 @@ int main()
     cout<<"I am a coder";
 
     int x=2,y=98;
-    cout<<endl<<x+y;
+    cout<<endl<<x<<endl<<y;
 }
