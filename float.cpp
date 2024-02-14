@@ -12,5 +12,5 @@ int main()
     cout<<5.0/2<<endl;
     cout<<5/2.0<<endl;
     cout<<5.0/2.0<<endl;
-
+//if any of the number is in float the ans will be in float.
 }
